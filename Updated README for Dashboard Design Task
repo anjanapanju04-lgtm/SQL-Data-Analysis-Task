@@ -1,0 +1,46 @@
+Dashboard Design Task
+
+Internship
+
+Elevate Labs – Data Analyst Internship
+
+Objective
+
+To design a dashboard that tracks key business metrics and provides insights into sales performance.
+
+Dataset
+
+The dataset contains:
+
+- Month
+- Sales
+- Profit
+- Category
+
+Key Performance Indicators (KPIs)
+
+- Total Sales: 101000
+- Total Profit: 17200
+- Total Orders: 6
+- Average Profit: 2867
+
+Category-wise Sales Summary
+
+- Electronics: 52000
+- Furniture: 35000
+- Clothing: 14000
+
+Insights
+
+- Electronics generated the highest sales.
+- Furniture was the second-highest performing category.
+- Sales showed an increasing trend from January to June.
+
+Tools Used
+
+- Google Sheets
+- Microsoft PowerPoint
+
+Conclusion
+
+The dashboard provides a clear overview of sales performance and helps identify business trends using KPI metrics and category-wise analysis.
