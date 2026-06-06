@@ -1,0 +1,12 @@
+Task 1: Data Cleaning and Preprocessing
+
+Dataset: Netflix Titles
+
+Actions Performed:
+- Inspected dataset structure
+- Checked for missing values
+- Reviewed duplicate records
+- Verified column consistency
+- Reviewed data quality
+
+Dataset prepared for further analysis.
