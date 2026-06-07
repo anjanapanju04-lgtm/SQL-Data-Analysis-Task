@@ -1,0 +1,15 @@
+
+Exploratory Data Analysis Report - Netflix Dataset
+
+Dataset Overview:
+Netflix titles dataset containing movies and TV shows.
+
+Findings:
+1. Most content was released after 2010.
+2. Movies are more common than TV Shows.
+3. United States has the highest number of titles.
+4. TV-MA is the most common rating.
+5. Missing values exist in director, cast and country columns.
+
+Conclusion:
+Netflix content increased rapidly in recent years and movies dominate the platform.
